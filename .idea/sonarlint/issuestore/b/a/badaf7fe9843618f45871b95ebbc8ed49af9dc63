@@ -1,0 +1,6 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ¿şE
+w
+java:S1128"URemove this unused import 'springfox.documentation.spi.DocumentationType.SWAGGER_12'.(ƒ„’ôúÿÿÿÿ8Û£ıüå0
+g
+java:S1128"JRemove this unused import 'springfox.documentation.spi.DocumentationType'.(ÉêÉ¥8ÀÑûüå0

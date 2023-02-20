@@ -1,0 +1,13 @@
+
+`	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(çºşƒşÿÿÿÿ
+m	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ«‘¹8®Šûå0
+r	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ØÇøÿÿÿÿ8×¥ıúå0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëê½ıÿÿÿÿ
+V
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(Ó¥ù
+V
+java:S4684?"@Replace this persistent entity with a simple POJO or DTO object.(…ÿÈç
+S
+java:S6437R"6Revoke and change this password, as it is compromised.(£…ÓÔ8óöÛıå0
+d
+java:S1858["G"getRequestURI" returns a string, there's no need to call "toString()".(¤ÉÓØ8÷öÛıå0
